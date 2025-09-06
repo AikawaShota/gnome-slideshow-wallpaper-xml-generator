@@ -4,4 +4,6 @@ version = "0.1.0"
 description = "This is a script for generating an XML file for a GNOME desktop wallpaper slideshow."
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "click>=8.2.1",
+]
