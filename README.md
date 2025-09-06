@@ -1,0 +1,2 @@
+# gnome-slideshow-wallpaper-xml-generator
+GNOMEの壁紙をスライドショーにするために必要なXMLファイルを生成するスクリプトです。画像フォルダと表示時間等の引数を元にXMLファイルを生成します。
